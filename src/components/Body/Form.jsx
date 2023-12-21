@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import Input from '../atomic/input';
+import Input from '../Atomic/Input';
 
 const Form = ({ setNotes, lastId, setLastId})=> {
   const [title, setTitle] = useState("");

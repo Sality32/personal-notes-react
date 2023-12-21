@@ -1,4 +1,4 @@
-import Input from '../atomic/input';
+import Input from '../Atomic/Input';
 
 const Header = ({ search, setSearchTitle}) => {
   return (

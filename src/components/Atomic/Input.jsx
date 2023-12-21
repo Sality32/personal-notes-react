@@ -1,4 +1,3 @@
-// Input.jsx
 const Input = ({ type, name, value, onChange, placeholder, required }) => {
   const handleChange = (event) => {
     if (name === "title") {
